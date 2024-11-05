@@ -1,0 +1,101 @@
+Customer ID,Feedback Channel,Rating,Comment,Date
+C12345,Email,5,The service was great!,2024-11-01
+C67890,Social Media,4,Good experience overall.,2024-10-15
+C13579,Survey,3,It was okay.,2024-09-05
+C24680,Email,2,Could improve product quality.,2024-08-20
+C11223,Social Media,1,Not satisfied with the support.,2024-07-14
+C33445,Survey,4,Customer support was helpful.,2024-06-22
+C55667,Email,5,Excellent quality!,2024-05-01
+C77889,Social Media,3,Neutral experience.,2024-04-17
+C99000,Survey,2,Service was below expectations.,2024-03-10
+C10112,Email,5,Loved the experience.,2024-02-25
+C21223,Social Media,1,Had a poor experience.,2024-01-30
+C32334,Survey,4,Very satisfied with the product.,2024-01-15
+C43445,Email,3,Average experience.,2024-11-02
+C54556,Social Media,2,Product did not meet expectations.,2024-10-05
+C65667,Survey,5,Great product quality!,2024-09-15
+C76778,Email,3,Service was fine.,2024-08-10
+C87889,Social Media,4,Good value for money.,2024-07-04
+C98990,Survey,5,Fantastic service!,2024-06-18
+C12321,Email,1,Poor customer experience.,2024-05-23
+C23432,Social Media,3,Nothing special.,2024-04-29
+C34543,Survey,5,Highly recommend!,2024-03-19
+C45654,Email,2,Could improve response time.,2024-02-12
+C56765,Social Media,4,Great support team!,2024-01-03
+C67876,Survey,3,It was fine.,2024-11-03
+C78987,Email,1,Not impressed with the service.,2024-10-17
+C89098,Social Media,5,Superb experience!,2024-09-10
+C90109,Survey,4,Happy with the quality.,2024-08-20
+C11210,Email,2,Disappointed with the delivery.,2024-07-12
+C22321,Social Media,3,Average experience.,2024-06-25
+C33432,Survey,1,Very poor quality.,2024-05-30
+C44543,Email,5,Fantastic support!,2024-04-22
+C55654,Social Media,4,Helpful customer service.,2024-03-05
+C66765,Survey,3,Nothing extraordinary.,2024-02-16
+C77876,Email,2,Could be better.,2024-01-28
+C88987,Social Media,5,Exceptional service!,2024-11-04
+C99098,Survey,1,Not worth the price.,2024-10-02
+C10109,Email,3,Satisfactory experience.,2024-09-25
+C21230,Social Media,4,Pleased with the purchase.,2024-08-12
+C32341,Survey,5,Highly satisfied.,2024-07-19
+C43452,Email,2,Service could be faster.,2024-06-05
+C54563,Social Media,1,Unhappy with the service.,2024-05-22
+C65674,Survey,4,Good quality product.,2024-04-14
+C76785,Email,3,It was decent.,2024-03-07
+C87896,Social Media,5,The team was amazing!,2024-02-20
+C98907,Survey,1,Not happy with the product.,2024-01-13
+C10001,Email,4,Smooth process!,2024-11-05
+C20002,Social Media,2,Delivery was slow.,2024-10-20
+C30003,Survey,3,An okay experience.,2024-09-30
+C40004,Email,1,Support was unhelpful.,2024-08-25
+C50005,Social Media,5,Excellent experience!,2024-07-08
+C60006,Survey,4,Very happy with the quality.,2024-06-03
+C70007,Email,3,Nothing special.,2024-05-13
+C80008,Social Media,2,Not what I expected.,2024-04-11
+C90009,Survey,4,Great customer support!,2024-03-24
+C10110,Email,5,Would highly recommend!,2024-02-15
+C20220,Social Media,1,Not satisfied with the product.,2024-01-07
+C30330,Survey,3,It was alright.,2024-11-06
+C40440,Email,4,The team was very responsive.,2024-10-18
+C50550,Social Media,2,Did not meet expectations.,2024-09-29
+C60660,Survey,5,Fantastic service!,2024-08-09
+C70770,Email,4,Overall, very happy.,2024-07-16
+C80880,Social Media,1,Very disappointed.,2024-06-10
+C90990,Survey,3,An average experience.,2024-05-27
+C12345,Email,5,Perfect experience!,2024-04-19
+C67890,Social Media,3,Service was fine.,2024-03-15
+C13579,Survey,4,Helpful staff.,2024-02-05
+C24680,Email,2,Could improve.,2024-01-18
+C11223,Social Media,5,Amazing support!,2024-11-07
+C33445,Survey,1,Product was damaged.,2024-10-12
+C55667,Email,4,Very satisfied!,2024-09-17
+C77889,Social Media,3,Neutral experience.,2024-08-15
+C99000,Survey,2,Support was lacking.,2024-07-20
+C10112,Email,5,Highly recommend!,2024-06-06
+C21223,Social Media,1,Not happy with the service.,2024-05-21
+C32334,Survey,3,Just fine.,2024-04-18
+C43445,Email,4,Support was very helpful.,2024-03-10
+C54556,Social Media,5,The experience was outstanding!,2024-02-01
+C65667,Survey,1,Very unsatisfactory.,2024-01-16
+C76778,Email,4,Efficient and fast.,2024-11-08
+C87889,Social Media,2,Product needs improvement.,2024-10-01
+C98990,Survey,3,It was okay.,2024-09-04
+C12321,Email,1,Service was disappointing.,2024-08-14
+C23432,Social Media,5,Amazing service!,2024-07-18
+C34543,Survey,4,Good experience.,2024-06-02
+C45654,Email,2,Could use more features.,2024-05-11
+C56765,Social Media,3,Adequate experience.,2024-04-07
+C67876,Survey,5,Truly exceptional!,2024-03-29
+C78987,Email,3,Nothing extraordinary.,2024-02-10
+C89098,Social Media,1,Felt ignored.,2024-01-22
+C90109,Survey,5,Very happy with the purchase!,2024-11-09
+C11210,Email,4,The quality was good.,2024-10-06
+C22321,Social Media,2,Not as expected.,2024-09-18
+C33432,Survey,3,A standard experience.,2024-08-08
+C44543,Email,5,Would come back again!,2024-07-12
+C55654,Social Media,4,Great product quality!,2024-06-27
+C66765,Survey,1,Disappointed in the service.,2024-05-16
+C77876,Email,3,It was acceptable.,2024-04-20
+C88987,Social Media,4,Happy with the purchase.,2024-03-09
+C99098,Survey,2,Fell short of expectations.,2024-02-14
+C10109,Email,5,Highly recommended!,2024-01-04
